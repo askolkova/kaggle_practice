@@ -1,1 +1,3 @@
-# kaggle_ML_learning
+# Kaggle
+
+Some kernels from my Kaggle profile
